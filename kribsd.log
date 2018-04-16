@@ -1,0 +1,12 @@
+2018-Apr-16 13:01:28.894966 INFO [daemon] kribs v1.1.1.1(0.1-g8edd998304)
+2018-Apr-16 13:01:28.895245 INFO [daemon] Module folder: /home/kribi/Documents/Logiciels/Cryptonote/build/release/src/kribsd
+2018-Apr-16 13:01:28.895495 ERROR [currency] failed to parse coinbase tx from hard coded blob
+2018-Apr-16 13:01:28.895605 ERROR [currency] Failed to generate genesis block
+2018-Apr-16 13:01:33.478189 INFO [daemon] kribs v1.1.1.1(0.1-g8edd998304)
+2018-Apr-16 13:01:33.478454 INFO [daemon] Module folder: /home/kribi/Documents/Logiciels/Cryptonote/build/release/src/kribsd
+2018-Apr-16 13:01:33.478648 ERROR [currency] failed to parse coinbase tx from hard coded blob
+2018-Apr-16 13:01:33.478753 ERROR [currency] Failed to generate genesis block
+2018-Apr-16 16:47:04.557524 INFO [daemon] kribs v1.1.1.1(0.1-g8edd998304)
+2018-Apr-16 16:47:04.557937 INFO [daemon] Module folder: ./kribsd
+2018-Apr-16 16:47:04.558218 ERROR [currency] failed to parse coinbase tx from hard coded blob
+2018-Apr-16 16:47:04.558386 ERROR [currency] Failed to generate genesis block
